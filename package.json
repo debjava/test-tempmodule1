@@ -1,0 +1,18 @@
+{
+	"name": "test-tempmodule1",
+	"version": "1.0.3",
+	"description": "Learning Typescript",
+	"scripts": {
+		"build": "rm -rf dist/ && tsc"
+	},
+	"author": "Sambit <sambittechy@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"lodash": "^4.17.4",
+		"@sambittechy/tempmodule1": "^1.0.2"
+	},
+	"devDependencies": {
+		"typescript": "^3.7.5",
+		"rimraf": "3.0.1"
+	}
+}
