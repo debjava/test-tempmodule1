@@ -8,7 +8,7 @@
 	"author": "Sambit <sambittechy@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"lodash": "^4.17.4",
+		"lodash": "^4.17.21",
 		"@sambittechy/tempmodule1": "^1.0.2"
 	},
 	"devDependencies": {
